@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome Stranger 👋
 
-<!--
-**lilacchio/lilacchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Software Engineering Undergrad student at the University of Calgary, Canada. I specialize in machine learning and back-end development and have a passion for creating beautiful and user-friendly web applications. I am also proficient in data science and AI, and have experience working with various programming languages and frameworks.
 
-Here are some ideas to get you started:
+🔭 My Current Personal Project:
+  - A note-taking app with the integration of machine learning helping students to understand any concept with the help of AI.
+  - My personal website
+  
+✨ My Current Professional Project:
+  - A Spotify concert finding app
+  
+🌱 I’m currently learning:
+  - Flutter, Scipy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+  - https://www.linkedin.com/in/sakmahmud/
+  - Lilac#0003 (DISCORD)
+
+⚡ Ask me about:
+  - Python, Bubble Tea and KPOP!
