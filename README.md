@@ -17,4 +17,4 @@ I'm currently a Software Engineering Undergrad student at the University of Calg
   - Lilac#0003 (DISCORD)
 
 ⚡ Ask me about:
-  - Python, Bubble Tea and KPOP!
+  - Python, Bubble Tea, KPOP and Studio Ghibli Films!
