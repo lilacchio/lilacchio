@@ -4,7 +4,7 @@ I'm currently a Software Engineering Undergrad student at the University of Calg
 
 🔭 My Current Personal Project:
   - A note-taking app with the integration of machine learning helping students to understand any concept with the help of AI.
-  - My personal website
+  - My personal website (http://lilacchio.me)
   
 ✨ My Current Professional Project:
   - A Spotify concert finding app
