@@ -14,7 +14,7 @@ I'm currently a Software Engineering Undergrad student at the University of Calg
 
 📫 How to reach me:
   - https://www.linkedin.com/in/sakmahmud/
-  - Lilac#0003 (DISCORD)
+  - Lilacchio (DISCORD)
 
 ⚡ Ask me about:
   - Python, Bubble Tea, KPOP and Studio Ghibli Films!
